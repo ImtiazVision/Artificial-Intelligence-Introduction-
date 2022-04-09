@@ -10,4 +10,8 @@
 
 - **Various Creations** : AI is powering multiple innovations in practically every subject, which will aid humans in tackling the majority of challenging problems.
 
+- **Digital Assistance** : Almost all big corporations today use digital assistants to interact with their customers, significantly lowering the need for human workers.
+
 - **Daily Usage**: Apps used on a daily basis, such as Apple's Siri, Microsoft's Cortana, and Google's OK Google is used often in our everyday lives, whether for searching up a place, clicking a photo, making a phone call, replying to an email, or a variety of other activities.
+
+- **Quicker Decisions** : By combining AI with other technologies, we can teach robots to make decisions and do tasks quicker than humans. Humans will evaluate a variety of factors, both emotionally and practically, when making a decision, while AI-powered robots will focus on what is programmed and provide results more quickly.
