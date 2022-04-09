@@ -7,3 +7,7 @@
 - **24*7 Availability**: AI can continue to work eternally with no breaks. They think far quicker than humans and can accomplish many tasks at once with consistent results. With the assistance of AI algorithms, they may even do tedious repetitive tasks.
 
 - **Assisting with Repetitive Tasks** : We can use artificial intelligence to successfully automate repetitive operations like sending thank-you emails and inspecting specific papers for errors, and even remove "dull" chores from people's workloads, freeing them up to be more creative.
+
+- **Various Creations** : AI is powering multiple innovations in practically every subject, which will aid humans in tackling the majority of challenging problems.
+
+- **Daily Usage**: Apps used on a daily basis, such as Apple's Siri, Microsoft's Cortana, and Google's OK Google is used often in our everyday lives, whether for searching up a place, clicking a photo, making a phone call, replying to an email, or a variety of other activities.
