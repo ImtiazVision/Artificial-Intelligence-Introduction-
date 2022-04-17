@@ -1,13 +1,15 @@
 The following stages represent the rise of artificial intelligence: 
 
-**Narrow Intelligence **
+**Narrow Intelligence ** : It is applicable to specific jobs, such as Alexa, Sophia, and Alpha Go.
 
-It is applicable to specific jobs, such as Alexa, Sophia, and Alpha Go.
+**General Intelligence** : Machines have the ability to mimic human intelligence.
 
-**General Intelligence** : 
+**Exceptional Intelligence** : Machines can outperform humans at this level.
 
-Machines have the ability to mimic human intelligence.
+AI is involved in the following industries: 
 
-**Exceptional Intelligence** : 
-
-Machines can outperform humans at this level.
+- Deep Learning
+- Natural Language Processing
+- Artificial General Intelligence
+- Data Science
+- Machine Learning
