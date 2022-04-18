@@ -1,4 +1,4 @@
-The following are the primary components of Data Science: 
+## The following are the primary components of Data Science: 
 
 ### Acquiring Data
 
