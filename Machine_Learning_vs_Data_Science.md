@@ -4,7 +4,11 @@
 
 ### Data Science : 
 
-**Data Science** : The scope of data science is the extraction of information and insights from data.
+**Data Science** : The scope of data science is the extraction of information and insights from data. Data science answers the following questions :
+
+  - What type of knowledge?
+  - How is insight obtained?
+  - Which actionable choice is made?
 
 ### Deep Learning : 
 
