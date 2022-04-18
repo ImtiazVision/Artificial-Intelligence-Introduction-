@@ -8,4 +8,4 @@
 
 ### Deep Learning : 
 
-**Deep Learning** : is a strong technique for supervised learning or A to B mappings.
+**Deep Learning** : is the expansion of computational structures known as neural networks. It is a strong technique for supervised learning or A to B mappings. Learning strong representations is key to deep learning.
