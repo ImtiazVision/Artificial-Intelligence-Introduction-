@@ -5,3 +5,7 @@
 ### Data Science : 
 
 **Data Science** : The scope of data science is the extraction of information and insights from data.
+
+### Deep Learning : 
+
+**Deep Learning** : is a strong technique for supervised learning or A to B mappings.
