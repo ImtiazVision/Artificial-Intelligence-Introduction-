@@ -1,4 +1,4 @@
-# Artificial-Intelligence-Introduction-
+# Artificial-Intelligence-Introduction
 
 ### Artificial Intelligence definition 
 
